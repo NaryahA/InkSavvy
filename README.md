@@ -7,4 +7,4 @@ SO THAT I can reliably retrieve them for later use
 Deployed link: http://localhost:3000/
 
 
-Github:
+Github: https://github.com/NaryahA/InkSavvy
